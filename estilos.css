@@ -1,0 +1,40 @@
+.body{
+    background-color: #412F59;
+}
+.nombre{
+    background-color: #9F8FBF;
+    display: flex;
+    justify-content: center;
+}
+.vestido{
+    display: flex;
+    justify-content: center;
+    width: 1400px;
+    height: 400px;
+}
+.ingreso{
+    width: 1350px;
+    height: 50px;
+    background-color: #9F8FBF;
+    display: flex;
+    justify-content: center;
+    
+}
+.encabezado{
+    background-color: #F2D399;
+    display: flex;
+     justify-content: space-between;
+    width:100%;
+    height: 100px;
+    margin: 4px;
+}
+.columna{
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 2px;
+}
+.vestido3{
+    justify-content: flex-end;
+}
